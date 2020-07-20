@@ -1,0 +1,129 @@
+/*@font-face {
+	font-family: 'MyFont';
+	src: local('MyFont'), url(./fonts/HelveticaNeue.dfont) format('woff');
+}
+*/
+.main-header-background {
+	background:#EDE6E3;
+	max-width: 100%;
+	max-height:60%;
+	padding: 2px;
+	margin: 0 auto;
+	height: 25em;
+}
+
+.navbar-main{
+	background-color: #EDE6E3!important;
+	width: 100%;
+	justify-content: flex-end;
+}
+
+.nav-items{
+	opacity: 1;
+    color: #2B2B2B;
+    font-family: HelveticaNeue,AdobeInvisFont,MyriadPro-Regular;
+    font-size: 14px;
+    text-align: left;
+    padding: 3px;
+    margin-right: 3px;
+}
+
+.nav-items-group-second{
+	float: right;
+}
+
+.bsd-logo-main{
+    opacity: 1;
+    width: 149px;
+    height: 91px;
+    position: relative;
+    left: 29px;    
+    top: 84px;
+
+}
+
+.bsd-logo-div {
+	width: 100%;
+    justify-content: center;
+    text-align: left;
+}
+
+.bsd-logo-main-div {
+	padding: 2%;
+	width:20%;
+    justify-content: flex-start;
+    flex-flow: nowrap;
+}
+
+.header-title-text {
+    width: 100%;
+    display: inline-flex;
+}
+
+.header-title-sub-part-one {
+    width: 25%;
+    display: inline-flex;
+}
+
+.header-title-sub-part-two {
+	width: 40%;
+    display: inline-flex;
+	top: 87px;
+    position: relative;
+
+}
+
+.header-btn{
+    margin-top: 10px;
+    border: 1px solid #444;
+    border-radius: 1px solid #444;
+    padding: 8px 20px;
+}
+
+.img-right-side{
+    height: 500px;
+    width:100%;
+}
+
+.main-body-img{
+    display: inline-flex;
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.main-body-p{
+    padding:10px 60px; 
+}
+
+.main-body-h1{
+ padding:10px 60px;   
+}
+
+.main-body-btn{
+    margin: 10px 60px;
+    border-color: grey;
+    background-color: none;
+    border-radius: 5px;
+    padding:18px 36px;
+}
+
+.col-md-4{
+    width: 100%;
+}
+
+.img-center{
+    text-align: center;
+    margin: auto;
+}
+
+.main-body-h4{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.main-body-p-h4{
+    text-align: center;
+}
